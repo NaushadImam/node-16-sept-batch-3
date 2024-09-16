@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Laurie",
+    "last_name": "Gather",
+    "email": "lgather0@slideshare.net",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Susy",
+    "last_name": "Wackley",
+    "email": "swackley1@purevolume.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Stinky",
+    "last_name": "McAree",
+    "email": "smcaree2@illinois.edu",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Feodora",
+    "last_name": "Silman",
+    "email": "fsilman3@comsenz.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Augustina",
+    "last_name": "Unworth",
+    "email": "aunworth4@topsy.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Ruddie",
+    "last_name": "Peracco",
+    "email": "rperacco5@chicagotribune.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Meridel",
+    "last_name": "Brame",
+    "email": "mbrame6@booking.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Lorenza",
+    "last_name": "Schole",
+    "email": "lschole7@kickstarter.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Vasilis",
+    "last_name": "Llewellin",
+    "email": "vllewellin8@delicious.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Erina",
+    "last_name": "Benzi",
+    "email": "ebenzi9@taobao.com",
+    "gender": "Female"
+  }
+]
